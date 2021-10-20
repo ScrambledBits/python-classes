@@ -140,3 +140,4 @@ cython_debug/
 # Exported files
 *.html
 *.pdf
+*.md
