@@ -9,4 +9,11 @@ pip3 install --upgrade --user virtualenv
 
 # From the directory where you cloned this create a new virtualenv and activate it.
 virtualenv .env
+source .env/bin/activate
+
+# Install the Jupyter package
+pip install jupyter
+
+# Open the directory in VSCode
+code .
 ```
